@@ -1,3 +1,3 @@
 + Projektvision
-   * <p> [[Zusammenfassung|Zusammenfassung]]
+   * <p> [[Zusammenfassung|Projektvision]]
    * <p> [[Personas|Personas]]
