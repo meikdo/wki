@@ -1,0 +1,1 @@
+Dieses Wiki beinhaltet das Konzept der ParkAid-App von Meik Domachowski, Hauke Fiedler und Fabian Vistorin.
