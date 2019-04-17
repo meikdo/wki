@@ -1,3 +1,5 @@
+
+
 ### Details <p>
 Berater bei einem mittelgroßen Unternehmen. Er ist organisiert und fährt zu Kundenterminen, wenn möglich, mit dem Auto. Um sich auf Termine vorzubereiten nutzt er regelmäßig sein Diensthandy.  
   
