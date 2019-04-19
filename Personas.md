@@ -8,4 +8,4 @@
 |PER02| [Alexander](PER02Alexander)  | 21    | Primärpersona |
 |PER03| [Eva](PER03Eva)  | 19    | Sekundärpersona |
 |PER04| [Zhoya](PER04Zhoya)  | 52    | Sekundärpersona |
-
+|PER05| [Julia](PER05Julia)  | 32    | Komplementärpersona |
