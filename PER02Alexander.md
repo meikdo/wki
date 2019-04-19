@@ -5,4 +5,4 @@ Student, der mit seinen Freunden jedes Wochenende in verschiedenste Städte in N
 
 # Ziel
 
-Er möchte ohne viel Entfernung zu dem Veranstaltungsort parken und auch in der Nacht direkt zu seinem Auto finden.
+Er möchte ohne viel Entfernung zu dem Veranstaltungsort parken und auch in der Nacht direkt zu seinem Auto finden. Außerdem hätte er gerne einen Timer wann sein Ticket abläuft, oder eine neue Tarifstunde anfängt.
