@@ -4,4 +4,4 @@
 Berater bei einem mittelgroßen Unternehmen. Er ist organisiert und fährt oft mit dem Auto zu Kundenterminen in andere Städte. Um sich auf Termine vorzubereiten nutzt er regelmäßig sein Diensthandy und navigiert mit Google Maps.  
   
 ### Ziele 
-Sucht nach einer schnellen Möglichkeit die Anfahrt zum Kunden zu vereinfachen und Zeit zu sparen. 
+Sucht nach einer schnellen und mobilen Möglichkeit die Anfahrt zum Kunden zu vereinfachen und Zeit zu sparen. 
