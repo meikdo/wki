@@ -2,3 +2,5 @@
 
 ## Beschreibung
 Auch, wenn die App auf einem Standort-Prinzip aufbaut, soll sie sich trotzdem normal aufbauen und eine Fehlermeldung darüber geben, dass der Standort deaktiviert ist. Jedoch funktioniert die Parkplatzsuche über das Internet normal, aber ohne Navigation.
+
+Quelle: [SH1](https://github.com/isd-nunkesser/sd-2019-froyo/wiki) Priorität: Mandatory
