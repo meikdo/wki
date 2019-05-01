@@ -1,7 +1,7 @@
-## Anwendungsfälle
+## Akteure 
 
-| ID  |  Name        | Quelle|      | Akteure      |
-|-----|--------------|--------------|--------------
-|UC01 | test| Gelegentliche Fahrten in un/bekannte Städte          |
-|UC02 |test| Häufiges Fahren in gleiche Stadt|
-|UC03 | test | Häufiges Fahren in verschiedene Städte          |
+| ID  |  Name        | Beschreibung |
+|-----|--------------|--------------|
+|AC01 | Normaler Fahrer| Gelegentliche Fahrten in un/bekannte Städte          |
+|AC02 | Pendler| Häufiges Fahren in gleiche Stadt|
+|AC03 | Vertreter | Häufiges Fahren in verschiedene Städte          |
