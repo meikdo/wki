@@ -5,5 +5,5 @@
    #### <p> [[Randbedingungen|Randbedingungen]]
    #### <p> [[Qualitätsanforderungen|Qualitätsanforderungen]]
    #### <p> [[Kontext|Kontext]]
-   #### <p> [[Interaktionsdesign|Interaktionsdesign]]
+   #### <p> [Interaktionsdesign](https://docdro.id/UV9sJBG)
    #### <p> [[Anwendungsfälle|Anwendungsfälle]]
