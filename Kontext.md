@@ -14,6 +14,7 @@
 |SYS01| Google Maps API| TBD          |
     
 <p>Maps Static API vs. Maps JavaScript API / Directions API?
+<p>für Navigation Maps App öffnen lassen?
 
 ## Geplante Systeme
 
