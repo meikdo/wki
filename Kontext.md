@@ -12,9 +12,12 @@
 | ID  |  Name          | Beschreibung |
 |-----|----------------|--------------|
 |SYS01| Google Maps API| TBD          |
+    
+<p>Maps Static API vs. Maps JavaScript API / Directions API?
 
 ## Geplante Systeme
 
 | ID  |  Name        | Beschreibung |
 |-----|--------------|--------------|
-|SYS02| Android App  | TBD          |
+|SYS02| Android App  | App für Android OS|
+|SYS03| Mobile Backend Server | Server für die App |
