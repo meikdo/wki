@@ -1,3 +1,5 @@
+![](https://github.com/isd-nunkesser/sd-2019-froyo/blob/master/CommunicationDiagram.jpg)
+
 ## Akteure 
 
 | ID  |  Name        | Beschreibung |
