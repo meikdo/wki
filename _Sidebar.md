@@ -7,6 +7,6 @@
    #### <p> [[Kontext|Kontext]]
    #### <p> [[Anwendungsfälle|Anwendungsfälle]]
 ## Umsetzungskonzeption
-   #### <p> [Systembeschreibung][Systembeschreibung]
+   #### <p> [[Systembeschreibung|Systembeschreibung]]
    #### <p> [Interaktionsdesign](https://docdro.id/UV9sJBG)
-   #### <p> [Schnittstellen][Schnittstellen]
+   #### <p> [[Schnittstellen|Schnittstellen]]
