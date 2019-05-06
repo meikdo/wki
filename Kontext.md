@@ -13,8 +13,8 @@
 
 | ID  |  Name          | Beschreibung |
 |-----|----------------|--------------|
-|SYS01| Google Dynamic Maps API| TBD  |
-|SYS04| Google Directions API | TBD |  
+|SYS01| Google Dynamic Maps API| [Dokumentation](https://developers.google.com/maps/documentation/javascript/tutorial?hl=de)|
+|SYS04| Google Directions API | [Dokumentation](https://developers.google.com/maps/documentation/javascript/directions?hl=de)|  
 
 
 ## Geplante Systeme
