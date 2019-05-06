@@ -13,10 +13,9 @@
 
 | ID  |  Name          | Beschreibung |
 |-----|----------------|--------------|
-|SYS01| Google Maps API| TBD          |
-    
-<p>Maps Static API vs. Maps JavaScript API / Directions API?
-<p>für Navigation Maps App öffnen lassen?
+|SYS01| Google Dynamic Maps API| TBD  |
+|SYS04| Google Directions API | TBD |  
+
 
 ## Geplante Systeme
 
