@@ -7,5 +7,6 @@
    #### <p> [[Kontext|Kontext]]
    #### <p> [[Anwendungsfälle|Anwendungsfälle]]
 ## Umsetzungskonzeption
+   #### <p> [Systembeschreibung][Systembeschreibung]
    #### <p> [Interaktionsdesign](https://docdro.id/UV9sJBG)
-   #### <p> [Schnittstellen](https://github.com/isd-nunkesser/sd-2019-froyo/wiki/Schnittstellen)
+   #### <p> [Schnittstellen][Schnittstellen]
