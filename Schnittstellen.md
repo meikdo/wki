@@ -4,5 +4,6 @@
 
 | Daten | Quelle | Kommunikation | Datenformat | Details |
 |-      |-       |-              |-            |-        |
-| Navigation | SYS01, SYS04 | | | |
-|
+| Kartendaten | SYS01 | | | |
+| Navigation | SYS04 | | | |
+| Historie | SYS02 | | | |
