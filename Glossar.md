@@ -1,0 +1,2 @@
+##### Kardinalitäten: 
+Sie finden die Kardinalität als Beschreibung der Pfeile in der Domäne. Eine 1 zu 1 Kardinalität beschreibt hierbei, dass jeweils eine Klasse, ein Datum einer anderen Klasse anzeigen lässt. Eine 1 zu 0...m Kardinalität beschreibt, dass 0 bis alle Daten übernommen und angezeigt werden.
