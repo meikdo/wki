@@ -1,4 +1,4 @@
-![](https://github.com/isd-nunkesser/sd-2019-froyo/blob/master/CommunicationDiagram.jpg)
+![](https://github.com/isd-nunkesser/sd-2019-froyo/blob/master/CommunicationcDiagram.jpg)
 
 ## Akteure 
 
