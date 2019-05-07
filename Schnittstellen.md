@@ -14,4 +14,4 @@
 
 ### Navigation
 
-Zur Navigation des Nutzers bezieht [SYS02](https://github.com/isd-nunkesser/sd-2019-froyo/wiki/Kontext) Daten von [SYS04](https://github.com/isd-nunkesser/sd-2019-froyo/wiki/Kontext).
+[SYS02](https://github.com/isd-nunkesser/sd-2019-froyo/wiki/Kontext) bezieht zur Navigation und Routenplanung Daten von [SYS04](https://github.com/isd-nunkesser/sd-2019-froyo/wiki/Kontext).
