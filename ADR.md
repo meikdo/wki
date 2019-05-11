@@ -1,7 +1,7 @@
 ## Entwurfsentscheidungen 
 ----
-### ADR01 Clean Architecture als Makroarchitektur
-Kontext
+## ADR01 Clean Architecture als Makroarchitektur
+### Kontext
 Das Projekt soll in möglichst sauberer Arbeitsteilung umgesetzt werden. Es kommen verschiedene Backendtechnologien in verschiedenen Umgebungen zum Einsatz.
 
 ### Entscheidungsbeschreibung
@@ -15,9 +15,9 @@ Akzeptiert
 
 ----
 
-###ADR02 Filter für Parkmöglichkeiten innerhalb der App & App-Einstellungen
-Kontext
-Das Parkmöglichkeitenangebot muss nach Bedarf und Wünschen gefiltert werden können.
+## ADR02 Filter für Parkmöglichkeiten innerhalb der App & App-Einstellungen
+### Kontext 
+Das Parkmöglichkeitenangebot muss nach Bedarf und Wünschen gefiltert werden können. 
 
 ### Entscheidungsbeschreibung
 Es gibt grundlegende und nur über die App-Einstellungen veränderliche Filter, wie zum Beispiel: behindertengerecht oder Aufladestation für Elektrofahrzeuge.
