@@ -9,5 +9,5 @@
    #### <p> [[Anwendungsfälle|Anwendungsfälle]]
 ## Umsetzungskonzeption
    #### <p> [[Systembeschreibung|Systembeschreibung]]
-   #### <p> [Interaktionsdesign](https://docdro.id/UV9sJBG)
+  
    #### <p> [[Schnittstellen|Schnittstellen]]
