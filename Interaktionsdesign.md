@@ -1,0 +1,1 @@
+![](https://github.com/isd-nunkesser/sd-2019-froyo/blob/master/Interaktionsdesign_final.pdf)
