@@ -13,7 +13,7 @@
 
 | ID  |  Name          | Beschreibung |
 |-----|----------------|--------------|
-|SYS01| HERE JavaScript API | [Dokumentation](https://developer.here.com/develop/javascript-api)|
+|SYS01| Google Maps API | [Dokumentation](https://developers.google.com/maps/documentation/?hl=de)|
 
 
 
