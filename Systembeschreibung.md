@@ -1,7 +1,7 @@
 ### Name und Organisationseinheit
 
 * ParkAid
-* de.ParkAid.isd
+* de.hshl.ParkAid.isd
 
 ### Betriebssystem
 
