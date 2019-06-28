@@ -23,4 +23,4 @@
 |-----|--------------|--------------|
 |SYS02| Android App  | App für Android OS|
 |SYS03| Mobile Backend Server | Server für die App |
-|SYS04| Database Server | TBD |
+|SYS04| Database Server | Datenbank für Daten zu Parkhäusern und -plätzen |
