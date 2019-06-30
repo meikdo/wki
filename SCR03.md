@@ -12,6 +12,6 @@
 |**Element**| **Anmerkung**|
 |-----|----------------|
 |EditText| Optionale Eingabe von Eigenschaften des Parkhauses |
-|Map|Mögliche Rücknavigation zu Parkhaus|
+
 
 
