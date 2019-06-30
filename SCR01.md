@@ -7,7 +7,7 @@
 #### Navigation
 |**Erreichbar von**| **Navigiermöglichkeit zu**|
 |-----|----------------|
-|Drawer| SCR02 |
+|Drawer, Öffnen der App| SCR02 |
 
 |**Element**| **Anmerkung**|
 |-----|----------------|
