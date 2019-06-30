@@ -1,4 +1,4 @@
-## SCR03 Eingabe von externer Parkplatz-Info
+## SCR04 Eingabe von externer Parkplatz-Info
 
 
 ![](https://github.com/isd-nunkesser/sd-2019-froyo/blob/master/SCR04.PNG)
